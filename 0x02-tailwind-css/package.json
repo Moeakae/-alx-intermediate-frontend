@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "tailwwindcss -i ./src/input.css -o ./dist/ouput.css --watch",
+    "start": "node ./src/index.js",
+    "tailwind": "npx tailwindcss -i ./src/input.css -o",
     "build": "tailwwindcss -i ./src/input.css -o ./dist/ouput.css --minify",
     "dev": "tailwwindcss -i ./src/input.css -o ./dist/ouput.css --watch",
     "lint": "stylelint './src/**/*.css'",
