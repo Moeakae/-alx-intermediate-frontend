@@ -1,5 +1,5 @@
 {
-  "name": "0x02-tailwind-css",
+  "name": "c",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,9 +10,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "c",
   "license": "ISC",
-  "description": "",
   "dependencies": {},
-  "devDedendencies": {}
+  "devDedendencies": {},
+  "description": ""
 }
