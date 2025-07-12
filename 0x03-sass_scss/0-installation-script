@@ -1,0 +1,8 @@
+# Steps to install SASS
+
+-Node.js and npm are installed on your system.
+-Open the terminal or command prompt.
+-Install SASS globally using npm:
+    npm install -g sass
+-Verify the installation:
+    sass --version
